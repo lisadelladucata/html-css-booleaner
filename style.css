@@ -25,3 +25,20 @@ header{
 h1{
     font-size: 40px;
 }
+
+#tabella{
+    text-align: left;
+}
+
+#testa{
+    color: white;
+    background-color: #20A9E5;
+}
+
+.azzurro{
+    background-color: #B1E5F2;
+}
+
+.prima-seconda{
+    width: 20%;
+}
