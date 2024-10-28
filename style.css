@@ -8,3 +8,20 @@ header{
     width: 150px;
     height: 150px;
 }
+
+#scritto-da{
+    color: #808080 ;
+}
+
+#booleaner{
+    color: #20a9e5;
+}
+
+#il{
+    color: #808080;
+    font-size: 10px;
+}
+
+h1{
+    font-size: 40px;
+}
