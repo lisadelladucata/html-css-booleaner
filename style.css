@@ -42,3 +42,23 @@ h1{
 .prima-seconda{
     width: 20%;
 }
+
+#img-1{
+    background-image: url(./images/monitor.jpg);
+    background-size: contain;
+    width:250px;
+    height:200px;
+    color: white;
+}
+
+#img-2{
+    background-image: url(./images/graph.jpg);
+    background-size: contain;
+    width:250px;
+    height:200px;
+    color: white;
+}
+
+h3{
+    color: #808080;
+}
