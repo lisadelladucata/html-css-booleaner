@@ -6,18 +6,20 @@ header{
 
 #logo{
     width: 150px;
-    height: 150px;
+    height: 85px;
 }
 
-#scritto-da{
+#written-by{
     color: #808080 ;
 }
 
 #booleaner{
     color: #20a9e5;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-#il{
+#on{
     color: #808080;
     font-size: 10px;
 }
@@ -26,37 +28,40 @@ h1{
     font-size: 40px;
 }
 
-#tabella{
+#table{
     text-align: left;
+    border-collapse: collapse;
 }
 
-#testa{
+#head{
     color: white;
     background-color: #20A9E5;
 }
 
-.azzurro{
+.blue{
     background-color: #B1E5F2;
 }
 
-.prima-seconda{
+.first-second{
     width: 20%;
 }
 
 #img-1{
     background-image: url(./images/monitor.jpg);
-    background-size: contain;
+    background-size: cover;
     width:250px;
     height:200px;
     color: white;
+    margin: 20px 0px;
 }
 
 #img-2{
     background-image: url(./images/graph.jpg);
-    background-size: contain;
+    background-size: cover;
     width:250px;
     height:200px;
     color: white;
+    margin: 20px 0px;
 }
 
 h3{
